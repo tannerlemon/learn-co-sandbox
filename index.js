@@ -15,3 +15,9 @@ function sayHelloToSofia() {
 function sayHelloToBrendan() {
   console.log("Hello, Brendan!")
 }
+
+function doSomething(thing) {
+  console.log(thing)
+}
+
+doSomething('anything')
